@@ -29,6 +29,14 @@ Conducted a self-initiated data analysis on Valorant’s ranking system to inves
 - Video gained 1 Million+ views, 30K+ likes, 4K+ comments, demonstrating high engagement and public interest in data-driven gaming insights.
 - Findings were widely discussed in the gaming community; multiple accounts re-shared the analysis, each receiving
 10K+ likes, validating the research’s relevance and accuracy.
+
+### 4. Demola: Value-oriented E-commerce Services (VR Retail Concept) Dec 2023
+Collaborated on designing a VR-based custom clothing store to enhance user experience in online shopping.
+**Skills**: Project Planning, UX Design, Market Analysis, Future Scenario Building, VR Conceptualization
+**Highlights**:
+- Explored pain points and opportunities in current online retail through user journey mapping and market research
+- Proposed an immersive VR retail concept to increase engagement, personalization, and customer satisfaction
+- co-authored a comprehensive future outlook report and created a demo proposal showcasing the potential of immersive tech in e-commerce
 ---
 
 ## Tools & Skills 👀
