@@ -6,20 +6,21 @@ Aspiring Data Analyst / Data Scientist with a strong foundation in Python, SQL, 
 
 ## Featured Projects 🌱
 
-### 1. [Text Analysis of Social Media Posts (Thesis)](https://github.com/yourname/thesis-appendix)
+### 1. [Wolt Data Analyst Pre-task (EDA)](https://github.com/yourname/wolt-eda-task)  May 2025
+Performed exploratory analysis on a machine-generated user dataset provided by Wolt.  
+**Skills**: Python, Pandas, Matplotlib, Seaborn  
+**Highlights**:
+- Analyzed order trends, user frequency and peak times
+- Suggested data-driven hypotheses about user segmentation
+
+
+### 2. [Text Analysis of Social Media Posts (Master's Thesis)](https://github.com/yourname/thesis-appendix) April 2025
 Used web scraping, NLP, and LDA topic modeling to uncover themes in social media posts.  
 **Skills**: Python, Selenium, BeautifulSoup, Pandas, NLTK, LDA (Gensim), Data Cleaning, Visualization
 **Highlights**:
 - Scraped and cleaned over 10,000 posts from Tieba
 - Identified 4 main discussion topics using topic modeling
 - Visualized topic trends over time
-
-### 2. [Wolt Data Analyst Pre-task (EDA)](https://github.com/yourname/wolt-eda-task)
-Performed exploratory analysis on a machine-generated user dataset provided by Wolt.  
-**Skills**: Python, Pandas, Matplotlib, Seaborn  
-**Highlights**:
-- Analyzed order trends, user frequency and peak times
-- Suggested data-driven hypotheses about user segmentation
 
 ---
 
