@@ -7,11 +7,21 @@ Aspiring Data Analyst / Data Scientist with a strong foundation in Python, SQL, 
 ## Featured Projects 🌱
 
 ### 1. [Wolt Data Analyst Pre-task (EDA)](https://github.com/yourname/wolt-eda-task)  May 2025
-Performed exploratory analysis on a machine-generated user dataset provided by Wolt.  
-**Skills**: Python, Pandas, Matplotlib, Seaborn  
-**Highlights**:
-- Analyzed order trends, user frequency and peak times
-- Suggested data-driven hypotheses about user segmentation
+Explored how timing of a user’s first purchase relates to their long-term purchase frequency.
+
+Defined two custom metrics:
+
+- Early Purchase Behavior (Day 1 / Week 1 / Within 14 Days)
+- Purchase Frequency = Purchase Count ÷ Usage Days
+
+**📌 Key Insights**:
+
+- Users with very high frequency almost always purchased in the first week.
+- T-tests show strong correlation between early purchases (especially within Week 1) and future frequency.
+- First-week buyers had the highest average frequency.
+- Regression confirms that Week 1 purchases are more predictive than just any purchase within 14 days.
+
+**Tools**: Python, Pandas, Matplotlib, T-test, OLS Regression
 
 
 ### 2. [Text Analysis of Social Media Posts (Master's Thesis)](https://github.com/yourname/thesis-appendix) April 2025
