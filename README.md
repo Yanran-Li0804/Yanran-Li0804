@@ -1,4 +1,4 @@
-# Hi, I'm Yanran Li! 😄
+# Hi, I'm Yanran Li! 😺
 
 Aspiring Data Analyst / Data Scientist with a strong foundation in Python, SQL, and marketing analytics. Passionate about turning data into insights. Below are some selected projects I've worked on.
 
@@ -7,7 +7,7 @@ Aspiring Data Analyst / Data Scientist with a strong foundation in Python, SQL, 
 ## Featured Projects 🌱
 
 ### 1. [Text Analysis of Social Media Posts (Thesis)](https://github.com/yourname/thesis-appendix)
-Used web scraping, NLP, and LDA topic modeling to uncover themes in social media posts during [某事件/时期]  
+Used web scraping, NLP, and LDA topic modeling to uncover themes in social media posts.  
 **Skills**: Python, Selenium, BeautifulSoup, Pandas, NLTK, LDA (Gensim), Data Cleaning, Visualization
 **Highlights**:
 - Scraped and cleaned over 10,000 posts from Tieba
@@ -23,7 +23,7 @@ Performed exploratory analysis on a machine-generated user dataset provided by W
 
 ---
 
-## Tools & Skills
+## Tools & Skills 👀
 
 - **Languages**: Python, SQL, R  
 - **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Gensim, NLTK  
