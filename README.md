@@ -22,7 +22,7 @@ Used web scraping, NLP, and LDA topic modeling to uncover themes in social media
 - Identified 4 main discussion topics using topic modeling
 - Visualized topic trends over time
 
-### 3. [Data-driven Content Creator (TikTok)](https://www.douyin.com/?vid=7486470388474449209&recommend=1) March 2025
+### 3. [Data-driven Content Creator (TikTok)](https://v.douyin.com/n2l461s9feg) March 2025
 Conducted a self-initiated data analysis on Valorant’s ranking system to investigate potential retention mechanisms. Collected and analyzed matches using Excel, identifying patterns in win/loss impact on rank progression.
 **Skills**: Excel
 **Highlights**:
