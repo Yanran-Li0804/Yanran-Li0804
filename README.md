@@ -16,7 +16,9 @@ Performed exploratory analysis on a machine-generated user dataset provided by W
 
 ### 2. [Text Analysis of Social Media Posts (Master's Thesis)](https://github.com/yourname/thesis-appendix) April 2025
 Used web scraping, NLP, and LDA topic modeling to uncover themes in social media posts.  
+
 **Skills**: Python, Selenium, BeautifulSoup, Pandas, NLTK, LDA (Gensim), Data Cleaning, Visualization
+
 **Highlights**:
 - Scraped and cleaned over 10,000 posts from Tieba
 - Identified 4 main discussion topics using topic modeling
@@ -24,7 +26,9 @@ Used web scraping, NLP, and LDA topic modeling to uncover themes in social media
 
 ### 3. [Data-driven Content Creator (TikTok)](https://v.douyin.com/n2l461s9feg) March 2025
 Conducted a self-initiated data analysis on Valorant’s ranking system to investigate potential retention mechanisms. Collected and analyzed matches using Excel, identifying patterns in win/loss impact on rank progression.
+
 **Skills**: Excel
+
 **Highlights**:
 - Video gained 1 Million+ views, 30K+ likes, 4K+ comments, demonstrating high engagement and public interest in data-driven gaming insights.
 - Findings were widely discussed in the gaming community; multiple accounts re-shared the analysis, each receiving
@@ -32,7 +36,9 @@ Conducted a self-initiated data analysis on Valorant’s ranking system to inves
 
 ### 4. Demola: Value-oriented E-commerce Services (VR Retail Concept) Dec 2023
 Collaborated on designing a VR-based custom clothing store to enhance user experience in online shopping.
+
 **Skills**: Project Planning, UX Design, Market Analysis, Future Scenario Building, VR Conceptualization
+
 **Highlights**:
 - Explored pain points and opportunities in current online retail through user journey mapping and market research
 - Proposed an immersive VR retail concept to increase engagement, personalization, and customer satisfaction
