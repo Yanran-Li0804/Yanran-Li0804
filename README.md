@@ -79,4 +79,4 @@ Collaborated on designing a VR-based custom clothing store to enhance user exper
 ## How to reach me 📫
 
 - [LinkedIn](https://linkedin.com/in/yanran-li-a74920324)  
-- [Email](mailto:lyrglmlzx@126.com)
+- [Email](mailto:Yanran0804@gmail.com)
