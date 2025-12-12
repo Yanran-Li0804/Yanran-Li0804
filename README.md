@@ -26,15 +26,25 @@ Keep the 14-day free delivery incentive, but add an extra reward for Week 1 purc
 **🛠️ Skills**: Python, Pandas, Matplotlib, Seaborn, T-test, OLS Regression
 
 
-### 2. [Text Analysis of Social Media Posts (Master's Thesis)](https://github.com/yourname/thesis-appendix) April 2025
-Used web scraping, NLP, and LDA topic modeling to uncover themes in social media posts.  
+### 2. [Text Analysis of Online Community Discussions (Master's Thesis)](https://github.com/Yanran-Li0804/thesis-appendix) April 2025
+Applied large-scale web scraping and NLP methods to examine discussion patterns and linguistic behaviors in a Chinese male-dominated online forum with incel-related characteristics.
 
-**🛠️ Skills**: Python, Selenium, BeautifulSoup, Pandas, NLTK, LDA (Gensim), Data Cleaning, Visualization
+**🛠️ Skills**: Python · Selenium · BeautifulSoup · Pandas · NLTK · Gensim LDA · Regex · Data Cleaning · Visualization
 
-**📌 Highlights**:
-- Scraped and cleaned over 10,000 posts from Tieba
-- Identified 4 main discussion topics using topic modeling
-- Visualized topic trends over time
+**🔑 Key Contributions**
+- Collected and processed **119,497 threads (Aug–Nov 2024)** from Sun Xiaochuan Ba, creating a reliable dataset for computational text analysis.  
+- Built a complete NLP workflow with customized cleaning rules for slang, homophones, and emojis to preserve community-specific language.  
+- Applied topic modeling, emoji analysis, and qualitative coding to uncover core discussion themes and communication patterns.  
+- Identified **four major topic clusters**:  
+  1. Gender-related everyday discussions  
+  2. Broader societal debates  
+  3. Romantic or personal challenges  
+  4. Community-oriented interactions  
+- Observed linguistic strategies such as creative slang, coded expressions, and emoji usage that reinforce group identity and shape conversational dynamics.  
+- Analyzed broader narrative structures, showing how gender-related discussions intersect with social commentary and collective identity.
+
+**📊 Outcome**
+Provided evidence-based insights into how a Chinese online community with incel-related traits constructs shared language practices and recurring discussion themes through everyday interactions.
 
 ### 3. [Data-driven Content Creator (TikTok)](https://v.douyin.com/n2l461s9feg) March 2025
 Conducted a self-initiated data analysis on Valorant’s ranking system to investigate potential retention mechanisms. Collected and analyzed matches using Excel, identifying patterns in win/loss impact on rank progression.
