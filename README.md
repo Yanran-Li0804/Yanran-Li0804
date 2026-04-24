@@ -41,7 +41,8 @@ Defined key analysis dimensions:
 ### 2. [Mobile Game Retention & Engagement Analysis](https://github.com/Yanran-Li0804/mobile-game-retention-analysis) April 2026
 Analyzed player behavior in a mobile game to understand user retention patterns, engagement dynamics, and player segmentation using cohort analysis and behavioral metrics.
 
-A Streamlit dashboard was developed to visualize retention and engagement metrics interactively.
+
+A Streamlit dashboard was developed to visualize retention and engagement metrics interactively. https://mobile-game-retention-analysis-mziappcwfg8yswy5zmb7fkt.streamlit.app/
 
 ---
 
