@@ -8,26 +8,9 @@ Aspiring Data Analyst / Data Scientist with a strong foundation in Python, SQL, 
 
 
 
-### 1. [Wolt Data Analyst Pre-task (EDA)](https://github.com/Yanran-Li0804/wolt-user-purchase-analysis)  May 2025  
-Analyzed synthetic user data from a Wolt-like delivery service to examine how the timing of a user’s first purchase impacts long-term behavior.
 
-Defined two custom metrics:
-- Early Purchase Timing (Day 1 / Week 1 / Within 14 Days)
-- Purchase Frequency = Total Purchases ÷ Days Since Registration
 
-**📌 Key Insights**:
-- Almost all high-frequency users made their first purchase within Week 1  
-- T-tests & regressions show Week 1 purchases are highly predictive of long-term usage, more so than Week 2 or 14-day purchases  
-- Users who bought during Week 1 have the highest average purchase frequency  
-- Week 2 purchases are not predictive of future engagement  
-
-**🎯 Recommendation**:
-Keep the 14-day free delivery incentive, but add an extra reward for Week 1 purchases (e.g., lottery or repeat-order bonus)  
-→ Goal: reinforce early habits & maximize customer lifetime value
-
-**🛠️ Skills**: Python, Pandas, Matplotlib, Seaborn, T-test, OLS Regression
-
-### 2. [IBM Telco Customer Churn Analysis](https://github.com/Yanran-Li0804/IBM-Telco-Customer-Churn-Analysis)  Apr 2026  
+### 1. [IBM Telco Customer Churn Analysis](https://github.com/Yanran-Li0804/IBM-Telco-Customer-Churn-Analysis)  Mar 2026  
 Analyzed telecom customer churn behavior to identify key drivers of customer attrition and uncover actionable retention strategies using EDA and Power BI dashboards.
 
 Defined key analysis dimensions:
@@ -55,7 +38,51 @@ Defined key analysis dimensions:
 
 **🛠️ Skills**: Python, Pandas, Matplotlib, Seaborn, Power BI, Data Cleaning, EDA
 
-### 3. [Text Analysis of Online Community Discussions (Master's Thesis)](https://github.com/Yanran-Li0804/thesis-appendix) April 2025
+### 2. [Mobile Game Retention & Engagement Analysis](https://github.com/Yanran-Li0804/mobile-game-retention-analysis) April 2026
+Analyzed player behavior in a mobile game to understand user retention patterns, engagement dynamics, and player segmentation using cohort analysis and behavioral metrics.
+
+A Streamlit dashboard was developed to visualize retention and engagement metrics interactively.
+
+---
+
+**📊 Key Metrics Analyzed**:
+- DAU / MAU  
+- D1 / D7 / D30 Retention  
+- Cohort Retention Curves  
+- Player Segmentation (Low / Medium / High Engagement)  
+
+---
+
+**📈 Key Insights**:
+- Retention drops significantly within the first 2–3 days  
+- High-engagement users show much stronger long-term retention  
+- Player engagement is highly skewed, with a small core group driving most activity  
+
+---
+
+**🧰 Tech Stack**: Python (Pandas, Matplotlib, Seaborn), Streamlit, Jupyter Notebook  
+
+### 3. [Wolt Data Analyst Pre-task (EDA)](https://github.com/Yanran-Li0804/wolt-user-purchase-analysis)  May 2025  
+Analyzed synthetic user data from a Wolt-like delivery service to examine how the timing of a user’s first purchase impacts long-term behavior.
+
+Defined two custom metrics:
+- Early Purchase Timing (Day 1 / Week 1 / Within 14 Days)
+- Purchase Frequency = Total Purchases ÷ Days Since Registration
+
+**📌 Key Insights**:
+- Almost all high-frequency users made their first purchase within Week 1  
+- T-tests & regressions show Week 1 purchases are highly predictive of long-term usage, more so than Week 2 or 14-day purchases  
+- Users who bought during Week 1 have the highest average purchase frequency  
+- Week 2 purchases are not predictive of future engagement  
+
+**🎯 Recommendation**:
+Keep the 14-day free delivery incentive, but add an extra reward for Week 1 purchases (e.g., lottery or repeat-order bonus)  
+→ Goal: reinforce early habits & maximize customer lifetime value
+
+**🛠️ Skills**: Python, Pandas, Matplotlib, Seaborn, T-test, OLS Regression
+
+
+### 4. [Text Analysis of Online Community Discussions (Master's Thesis)](https://github.com/Yanran-Li0804/thesis-appendix) April 2025
 Applied large-scale web scraping and NLP methods to examine discussion patterns and linguistic behaviors in a Chinese male-dominated online forum with incel-related characteristics.
 
 **🛠️ Skills**: Python · Selenium · BeautifulSoup · Pandas · NLTK · Gensim LDA · Regex · Data Cleaning · Visualization
@@ -75,7 +102,7 @@ Applied large-scale web scraping and NLP methods to examine discussion patterns 
 **📊 Outcome**
 Provided evidence-based insights into how a Chinese online community with incel-related traits constructs shared language practices and recurring discussion themes through everyday interactions.
 
-### 4. [Data-driven Content Creator (TikTok)](https://v.douyin.com/n2l461s9feg) March 2025
+### 5. [Data-driven Content Creator (TikTok)](https://v.douyin.com/n2l461s9feg) March 2025
 Conducted a self-initiated data analysis on Valorant’s ranking system to investigate potential retention mechanisms. Collected and analyzed matches using Excel, identifying patterns in win/loss impact on rank progression.
 
 **🛠️ Skills**: Excel
@@ -85,7 +112,7 @@ Conducted a self-initiated data analysis on Valorant’s ranking system to inves
 - Findings were widely discussed in the gaming community; multiple accounts re-shared the analysis, each receiving
 10K+ likes, validating the research’s relevance and accuracy.
 
-### 5. Demola: Value-oriented E-commerce Services (VR Retail Concept) Dec 2023
+### 6. Demola: Value-oriented E-commerce Services (VR Retail Concept) Dec 2023
 Collaborated on designing a VR-based custom clothing store to enhance user experience in online shopping.
 
 **🛠️ Skills**: Project Planning, Photoshop, Market Analysis, Future Scenario Building, VR Conceptualization
